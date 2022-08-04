@@ -2,7 +2,7 @@ import feedparser
 import pathlib
 import re
 
-root = pathlib.Path(__file__).parent.resolve()
+root = pathlib.Path('').parent.resolve()
 
 
 def replace_writing(content, marker, chunk, inline=False):
@@ -17,21 +17,22 @@ def replace_writing(content, marker, chunk, inline=False):
 
 
 def fetch_writing():
-    entries = feedparser.parse('https://eugeneyan.com/rss/')['entries']
+    entries = feedparser.parse('https://iutsav.dev/index.xml')['entries']
     top5_entries = entries[:5]
     entry_count = len(entries)
-    return [
-               {
-                   'title': entry['title'],
-                   'url': entry['link'].split('#')[0],
-                   'published': re.findall(r'(.*?)\s00:00', entry['published'])[0]
-               }
-               for entry in top5_entries
-           ], entry_count
+    entries = [
+        {
+           'title': entry['title'],
+           'url': entry['link'].split('#')[0],
+           'published': " ".join(entry["published"].split(" ")[:4])
+        }
+        for entry in top5_entries
+    ]
+    return entries, entry_count
 
 
 if __name__ == '__main__':
-    readme_path = root / 'README.md'
+    readme_path = root/'README.md'
     readme = readme_path.open().read()
     entries, entry_count = fetch_writing()
     print(f'Recent 5: {entries}, Total count: {entry_count}')
