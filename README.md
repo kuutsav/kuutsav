@@ -1,13 +1,8 @@
-### 👋 Hi, I'm Eugene Yan
+### 👋 Hi, I'm Utsav
 
-I design, build, and operate machine learning systems that serve customers at scale. Currently, I'm an Applied Scientist at Amazon helping users read more, and get more out of reading. Outside of work, I also...
-
-- 📝 [Write](https://eugeneyan.com/writing/) & [speak](https://eugeneyan.com/speaking/) about effective data science, data/ML systems, and career growth.
-- 🧠 [Teach](https://eugeneyan.com/resources/) a free email course to help data scientists be more effective.
-- 📌 [Curate](https://applyingml.com) papers, guides, and interviews on how to apply machine learning.
-- 📬 [Send](https://eugeneyan.com/subscribe/) a newsletter about data science, learning, and career.
-- 🌱 I'm learning: [Bandits](https://eugeneyan.com/writing/bandits/) & [counterfactual evaluation](https://eugeneyan.com/writing/counterfactual-evaluation/), [design patterns](https://github.com/eugeneyan/design-patterns), and Julia.
-- 😅 Fun fact: I don't use the QWERTY keyboard (I use [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) instead).
+I like to build ML and Backend systems that can scale easily. Lately, most of my work has been in the domain of NLP where I am researching, building, deploying and maintaining systems in production.
+ - :telescope: I'm especially interested in Information Retrieval and Recommender Systems.
+ - :seedling: I'm also learning internals of python, concurrent programming using async, distributed systems, etc.
 
 ### 📝 Recent Writing
 
@@ -19,7 +14,7 @@ I design, build, and operate machine learning systems that serve customers at sc
 * [Bandits for Recommender Systems](https://eugeneyan.com//writing/bandits/) - Sun, 08 May 2022
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->148<!-- writing_count ends --> posts) @ [eugeneyan.com](https://eugeneyan.com).
+View the archives (<!-- writing_count starts -->10<!-- writing_count ends --> posts) @ [iutsav.dev](https://iutsav.dev).
 
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/eugeneyan?label=Follow&style=social)](https://twitter.com/eugeneyan) ![Profile Views](https://gpvc.arturio.dev/eugeneyan)<a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
+<a href="https://github.com/kuutsav/kuutsav/actions"><img src="https://github.com/kuutsav/kuutsav/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
