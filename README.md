@@ -7,14 +7,14 @@ I like to build ML and Backend systems that can scale easily. Lately, most of my
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Information Retrieval, Part 4 - Finetuning SBERT for MNR](https://iutsav.dev/posts/information_retrieval_4_finetuning_sbert_with_mnr/) - Fri, 05 Aug 2022
 * [Information Retrieval, Part 3 - Finetuning BERT for IR](https://iutsav.dev/posts/information_retrieval_3_finetuning_bert_for_ir/) - Thu, 04 Aug 2022
 * [Information Retrieval, Part 2 - Evaluation metrics](https://iutsav.dev/posts/information_retrieval_2_evaluation_metrics/) - Thu, 04 Aug 2022
 * [Information Retrieval, Part 1 - The Inverted Index](https://iutsav.dev/posts/information_retrieval_1_classic_ir/) - Mon, 01 Aug 2022
 * [Dynamic Connectivity and Percolation](https://iutsav.dev/posts/dynamic_connectivity_and_percolation/) - Thu, 07 Apr 2022
-* [Python Notes, Part 2 - Sequences](https://iutsav.dev/posts/python_notes_2_sequences/) - Tue, 05 Apr 2022
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->11<!-- writing_count ends --> posts) @ [iutsav.dev](https://iutsav.dev).
+View the archives (<!-- writing_count starts -->12<!-- writing_count ends --> posts) @ [iutsav.dev](https://iutsav.dev).
 
 ---
 <a href="https://github.com/kuutsav/kuutsav/actions"><img src="https://github.com/kuutsav/kuutsav/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
